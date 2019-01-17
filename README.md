@@ -6,6 +6,7 @@ This is a simple React.js project same as Burger-Builder-ReactJs-Thunk but repla
 - Lazy Loading 
 - Jest and Enzyme for testing.
 
+You can check out the working example at: https://react-burger-builder-ddd6a.firebaseapp.com/
 
 ## Available Scripts
 
