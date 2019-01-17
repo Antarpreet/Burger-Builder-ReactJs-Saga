@@ -1,4 +1,4 @@
-This is a simple React.js project which uses: <br/><br/>
+This is a simple React.js project same as Burger-Builder-ReactJs-Thunk but replaces functionality of redux thunk with redux saga and it uses: <br/><br/>
 - React.js with Redux, 
 - Redux Saga, 
 - Firebase for database and autentication. 
