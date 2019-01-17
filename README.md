@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple React.js project which uses: <br/><br/>
+- React.js with Redux, 
+- Redux Saga, 
+- Firebase for database and autentication. 
+- React Router,
+- Lazy Loading 
+- Jest and Enzyme for testing.
+
 
 ## Available Scripts
 
